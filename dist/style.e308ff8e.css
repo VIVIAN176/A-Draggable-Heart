@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+h1{font-weight: normal;}
+ul,ol{list-style: none;}
+
+.heart1{
+    border: 1px solid #000;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+body{height: 100vh;}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
